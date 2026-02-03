@@ -22,9 +22,9 @@ Upload a photo → auto-parse items → friends claim what they ordered → pay 
 
 ## Technical Skills
 **Languages:** JavaScript, Python, Java  
-**Frontend:** React, HTML/CSS
-**Backend:** Node.js, Express, PostgreSQL
-**Currently learning:** TypeScript, Next.js, Swift
+**Frontend:** React, HTML/CSS  
+**Backend:** Node.js, Express, PostgreSQL  
+**Currently learning:** TypeScript, Next.js, Swift  
 
 
 ---
