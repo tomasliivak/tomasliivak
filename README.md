@@ -20,10 +20,12 @@ Upload a photo → auto-parse items → friends claim what they ordered → pay 
 
 ---
 
-## Tech Stack
-**Frontend:** JavaScript, React, HTML/CSS  
-**Backend:** Node.js, Express, PostgreSQL  
+## Technical Skills
+**Languages:** JavaScript, Python, Java  
+**Frontend:** React, HTML/CSS
+**Backend:** Node.js, Express, PostgreSQL
 **Currently learning:** TypeScript, Next.js, Swift
+
 
 ---
 
