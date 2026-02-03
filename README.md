@@ -4,7 +4,7 @@ Computer Science student at Boston College focused on full-stack development and
 
 ---
 
-## 🚀 Featured Project — Dinner Splitter
+## Featured Project — Dinner Splitter
 
 Split restaurant receipts in seconds.  
 Upload a photo → auto-parse items → friends claim what they ordered → pay instantly with Venmo.
@@ -15,19 +15,19 @@ Upload a photo → auto-parse items → friends claim what they ordered → pay 
 - Real-time item claiming and automatic tax/tip splitting
 - Deployed production backend and database
 
-🔗 **Live Demo:** https://usedivvy.app  
-📂 **Repo:** https://github.com/tomaslivak/dinner-splitter
+**Live Demo:** https://usedivvy.app
+**Repo:** https://github.com/tomaslivak/dinner-splitter
 
 ---
 
-## 🛠 Tech
+## Tech Stack
 **Frontend:** JavaScript, React, HTML/CSS  
 **Backend:** Node.js, Express, PostgreSQL  
 **Currently learning:** TypeScript, Next.js, Swift
 
 ---
 
-## 📫 Connect
+## Connect
 **Email:** liivakt@bc.edu  
 **LinkedIn:** https://www.linkedin.com/in/tomasliivak/
 
