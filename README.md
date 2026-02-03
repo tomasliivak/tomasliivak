@@ -15,7 +15,7 @@ Upload a photo → auto-parse items → friends claim what they ordered → pay 
 - Real-time item claiming and automatic tax/tip splitting
 - Deployed production backend and database
 
-**Live Demo:** https://usedivvy.app
+**Live Demo:** https://usedivvy.app  
 **Repo:** https://github.com/tomaslivak/dinner-splitter
 
 ---
