@@ -16,7 +16,7 @@ Upload a photo → auto-parse items → friends claim what they ordered → pay 
 - Deployed production backend and database
 
 **Live Demo:** https://usedivvy.app  
-**Repo:** https://github.com/tomaslivak/dinner-splitter
+**Repo:** https://github.com/tomasliivak/dinner-splitter
 
 ---
 
